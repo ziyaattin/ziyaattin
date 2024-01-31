@@ -8,7 +8,7 @@ const jagshem = {
 
 ---
 title: jagshem
-date: '2019-14-05'
+date: '2019-11-11'
 githubUsername: 'ziyaattin'
 ---
 
