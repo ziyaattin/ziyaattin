@@ -1,7 +1,8 @@
 ```javascript
-const thai = {
+const jagshem = {
   pronouns: "he" | "him",
- challenge: "Kimse :)"
+  title: "Kimsecikler baş göz kaşşş edemezzz laaaaaa QE:QWE:QWE:QWEQWE:WQE:WQ:E:QWE:EQWE",
+  number: "11"
 }
 ```
 
